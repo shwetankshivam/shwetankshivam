@@ -73,9 +73,7 @@
   <a href="https://x.com/shwetankshivam_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/shwetankshivam/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
+  
 </div>
 
 ###
